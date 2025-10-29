@@ -7,8 +7,6 @@ description: |
 author: Korolev
 ---
 
-<div id="header" align="center">
-
 # Welcome to my page
 
 ![Welcome Gif](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)
