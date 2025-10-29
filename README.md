@@ -7,17 +7,27 @@ description: |
 author: Korolev
 ---
 
-<div id="header" align="center">
-
 # Welcome to my page
 
-![Welcome Gif](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="120" alt="Welcome Gif" />
+</p>
 
-[![Vkontakte Badge](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/icestorm2512)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__icestorm__/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/korolev_2512)
+<p align="center">
+  <a href="https://vk.com/icestorm2512">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge" />
+  </a>
+  <a href="https://www.instagram.com/__icestorm__/">
+    <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="https://t.me/korolev_2512">
+    <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge" />
+  </a>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=AndromedaSmart&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndromedaSmart&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
@@ -26,7 +36,6 @@ I am a JavaScript frontend developer right now, but aspire to become a fullstack
 From Russia, Saint-Petersburg.  
 ![Work Gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
-</div>
 ---
 
 ## Technologies
