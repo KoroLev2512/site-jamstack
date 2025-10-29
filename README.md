@@ -26,6 +26,7 @@ I am a JavaScript frontend developer right now, but aspire to become a fullstack
 From Russia, Saint-Petersburg.  
 ![Work Gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
+</div>
 ---
 
 ## Technologies
