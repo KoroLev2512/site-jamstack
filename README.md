@@ -11,17 +11,17 @@ author: Korolev
 
 # Welcome to my page
 
-<img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://vk.com/icestorm2512">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
-  </a>
-  <a href="https://www.instagram.com/__icestorm__/">
-    <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://t.me/korolev_2512">
-    <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+<img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100" alt="Welcome Gif"/>
+
+<div id="badges">
+[![Vkontakte Badge](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/icestorm2512) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__icestorm__/) 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/korolev_2512)
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=AndromedaSmart&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
 
 ---
 
